@@ -4,7 +4,7 @@ A simple Convolutional Neural Network (CNN) for classifying images using Python 
 
 ## 📌 Project Overview
 
-This project demonstrates image classification using a CNN. The model is trained to classify images from the [Dataset Name] into multiple categories.
+This project demonstrates image classification using a CNN. The model is trained to classify images from the Cat and Dog into multiple categories.
 
 ## 📂 Dataset
 
@@ -30,5 +30,5 @@ Basic CNN structure:
 ### 🔧 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cnn-image-classifier.git
-cd cnn-image-classifier
+git clone https://github.com/sanyam991/CNN-based-Image-Classification.git
+cd CNN-based-Image-Classification
